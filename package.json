@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/conradkoh-dev/nextjs-sample.git",
+  "author": "Conrad Koh <conrad@zave.sg>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
